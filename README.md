@@ -134,7 +134,7 @@ Full audit trail: [`docs/validation_report.md`](docs/validation_report.md).
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/operations-sla-analytics.git
+git clone https://github.com/Saklin-labs/operations-sla-analytics.git
 cd operations-sla-analytics
 
 # 2. Install dependencies
